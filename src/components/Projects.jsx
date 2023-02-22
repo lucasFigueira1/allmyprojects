@@ -13,7 +13,7 @@ function Projects () {
             </a>
           </li>
         ))
-        }
+      }
     </ul>
   )
 }
