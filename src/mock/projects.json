@@ -52,5 +52,11 @@
     "ProjectName": "Tic Tac Toe",
     "Source": "https://tic-tac-toe-lac-pi.vercel.app/",
     "img": "/assets/tictactoepic.png"
+  },
+  {
+    "ProjectID": "10",
+    "ProjectName": "React Shopping Cart",
+    "Source": "https://shopping-cart-two-lemon.vercel.app/",
+    "img": "/assets/reactshoppic.png"
   }
 ]
